@@ -1,0 +1,75 @@
+[
+  {
+    "day": "Day 1",
+    "title": "Push (Chest, Shoulders, Triceps)",
+    "exercises": [
+      { "name": "Incline Barbell Press", "sets": "4 sets x 6–8 reps", "youtube": "https://www.youtube.com/watch?v=SrqOu55lrYU" },
+      { "name": "Dumbbell Flat Press", "sets": "3 sets x 8–12 reps", "youtube": "https://www.youtube.com/watch?v=VmB1G1K7v94" },
+      { "name": "Seated Overhead Dumbbell Press", "sets": "4 sets x 6–8 reps", "youtube": "https://www.youtube.com/watch?v=B-aVuyhvLHU" },
+      { "name": "Cable Lateral Raises", "sets": "3 sets x 12–15 reps", "youtube": "https://www.youtube.com/watch?v=kDqklk1ZESo" },
+      { "name": "Rope Tricep Pushdowns", "sets": "3 sets x 12–15 reps", "youtube": "https://www.youtube.com/watch?v=vB5OHsJ3EME" },
+      { "name": "Triceps Dips or Overhead Dumbbell Extensions", "sets": "3 sets x 10–12 reps", "youtube": "https://www.youtube.com/watch?v=6kALZikXxLc" }
+    ]
+  },
+  {
+    "day": "Day 2",
+    "title": "Pull (Back, Biceps, Rear Delts)",
+    "exercises": [
+      { "name": "Lat Pulldown (wide-grip)", "sets": "4 sets x 8–10 reps", "youtube": "https://www.youtube.com/watch?v=CAwf7n6Luuc" },
+      { "name": "Barbell Bent-Over Row", "sets": "4 sets x 8–10 reps", "youtube": "https://www.youtube.com/watch?v=vT2GjY_Umpw" },
+      { "name": "Chest-Supported Dumbbell Row", "sets": "3 sets x 10–12 reps", "youtube": "https://www.youtube.com/watch?v=pYcpY20QaE8" },
+      { "name": "Cable Face Pulls", "sets": "3 sets x 12–15 reps", "youtube": "https://www.youtube.com/watch?v=eIq5CB9JfKE" },
+      { "name": "EZ Bar Curls", "sets": "3 sets x 10–12 reps", "youtube": "https://www.youtube.com/watch?v=kwG2ipFRgfo" },
+      { "name": "Hammer Curls", "sets": "3 sets x 10–12 reps", "youtube": "https://www.youtube.com/watch?v=zC3nLlEvin4" }
+    ]
+  },
+  {
+    "day": "Day 3",
+    "title": "Legs (Quads, Hams, Glutes, Calves)",
+    "exercises": [
+      { "name": "Back Squats or Safety Bar Squats", "sets": "4 sets x 6–8 reps", "youtube": "https://www.youtube.com/watch?v=1xMaFs0L3ao" },
+      { "name": "Romanian Deadlift", "sets": "4 sets x 8–10 reps", "youtube": "https://www.youtube.com/watch?v=2SHsk9AzdjA" },
+      { "name": "Leg Press", "sets": "3 sets x 10–12 reps", "youtube": "https://www.youtube.com/watch?v=IZxyjW7MPJQ" },
+      { "name": "Walking Lunges", "sets": "3 sets x 12 steps/leg", "youtube": "https://www.youtube.com/watch?v=wrwwXE_x-pQ" },
+      { "name": "Standing Calf Raises", "sets": "4 sets x 12–15 reps", "youtube": "https://www.youtube.com/watch?v=-M4-G8p8fmc" },
+      { "name": "Seated Calf Raises", "sets": "3 sets x 15–20 reps", "youtube": "https://www.youtube.com/watch?v=YMmgqO8Jo-k" }
+    ]
+  },
+  {
+    "day": "Day 4",
+    "title": "Push (Chest, Shoulders, Triceps)",
+    "exercises": [
+      { "name": "Flat Dumbbell Press", "sets": "4 sets x 6–8 reps", "youtube": "https://www.youtube.com/watch?v=VmB1G1K7v94" },
+      { "name": "Incline Cable Flyes or Pec Deck", "sets": "3 sets x 10–12 reps", "youtube": "https://www.youtube.com/watch?v=eozdVDA78K0" },
+      { "name": "Arnold Press", "sets": "4 sets x 8–10 reps", "youtube": "https://www.youtube.com/watch?v=vj2w851ZHRM" },
+      { "name": "Front Raises (Plate or Cable)", "sets": "3 sets x 12–15 reps", "youtube": "https://www.youtube.com/watch?v=-t7fuZ0KhDA" },
+      { "name": "Parallel Bar Dips (or Assisted Dips)", "sets": "3 sets x 8–12 reps", "youtube": "https://www.youtube.com/watch?v=2z8JmcrW-As" },
+      { "name": "EZ Bar Skull Crushers", "sets": "3 sets x 10–12 reps", "youtube": "https://www.youtube.com/watch?v=d_KZxkY_0cM" }
+    ]
+  },
+  {
+    "day": "Day 5",
+    "title": "Pull (Back, Biceps, Rear Delts)",
+    "exercises": [
+      { "name": "Pull-Ups or Assisted Pull-Ups", "sets": "4 sets x 8–10 reps", "youtube": "https://www.youtube.com/watch?v=eGo4IYlbE5g" },
+      { "name": "T-Bar Row or Cable Row", "sets": "4 sets x 8–10 reps", "youtube": "https://www.youtube.com/watch?v=vT2GjY_Umpw" },
+      { "name": "Seated Cable Row (neutral grip)", "sets": "3 sets x 10–12 reps", "youtube": "https://www.youtube.com/watch?v=HJSVR_67OlM" },
+      { "name": "Dumbbell Shrugs", "sets": "3 sets x 12–15 reps", "youtube": "https://www.youtube.com/watch?v=pYcpY20QaE8" },
+      { "name": "Back Extensions or Hyperextensions", "sets": "3 sets x 12–15 reps", "youtube": "https://www.youtube.com/watch?v=ph3pddpKzzw" },
+      { "name": "Incline Dumbbell Curls", "sets": "3 sets x 10–12 reps", "youtube": "https://www.youtube.com/watch?v=soxrZlIl35U" },
+      { "name": "Reverse Cable Fly", "sets": "3 sets x 12–15 reps", "youtube": "https://www.youtube.com/watch?v=pYcpY20QaE8" }
+    ]
+  },
+  {
+    "day": "Day 6",
+    "title": "Core and Mobility & Flexibility",
+    "exercises": [
+      { "name": "Plank", "sets": "3 x 45 sec", "youtube": "https://www.youtube.com/watch?v=pSHjTRCQxIw" },
+      { "name": "Russian Twists", "sets": "3 x 20", "youtube": "https://www.youtube.com/watch?v=wkD8rjkodUI" },
+      { "name": "Superman Pose", "sets": "3 x 15 sec", "youtube": "https://www.youtube.com/watch?v=z6PJMT2y8GQ" },
+      { "name": "Cat-Cow", "sets": "5 reps", "youtube": "https://www.youtube.com/watch?v=w0DM3Gz5fG8" },
+      { "name": "Child’s Pose", "sets": "1 min", "youtube": "https://www.youtube.com/watch?v=2MJGg-dUKh0" },
+      { "name": "Downward Dog", "sets": "30 sec x 2", "youtube": "https://www.youtube.com/watch?v=6pDMOIlPLFE" }
+    ]
+  }
+]
